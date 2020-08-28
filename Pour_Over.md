@@ -1,5 +1,4 @@
  #☕️ Pour Over
-**By Ali**
 
 Serves : 1
 
